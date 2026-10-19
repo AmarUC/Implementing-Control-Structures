@@ -1,0 +1,12 @@
+{"shift_capacity": 4, "employees": [
+  {"name":"Avery Chen","preferences":[["morning","afternoon"],["morning"],["afternoon","evening"],["evening","morning"],["morning"],["afternoon"],["evening"]]},
+  {"name":"Blake Rivera","preferences":[["afternoon"],["morning","afternoon"],["morning"],["afternoon"],["evening","afternoon"],["morning"],["afternoon"]]},
+  {"name":"Casey Morgan","preferences":[["evening"],["evening","morning"],["afternoon"],["morning"],["afternoon"],["evening"],["morning"]]},
+  {"name":"Devon Patel","preferences":[["morning"],["afternoon"],["evening"],["morning","afternoon"],["morning"],["evening"],["afternoon"]]},
+  {"name":"Elliot Brooks","preferences":[["afternoon"],["evening"],["morning"],["afternoon"],["evening"],["morning","afternoon"],["evening"]]},
+  {"name":"Finley James","preferences":[["evening","afternoon"],["morning"],["evening"],["afternoon"],["morning","evening"],["afternoon"],["morning"]]},
+  {"name":"Gray Kim","preferences":[["morning"],["afternoon","evening"],["morning"],["evening"],["afternoon"],["evening"],["morning"]]},
+  {"name":"Harper Singh","preferences":[["afternoon"],["morning"],["evening","afternoon"],["morning"],["evening"],["afternoon"],["evening"]]},
+  {"name":"Indigo Wells","preferences":[["evening"],["afternoon"],["morning"],["evening"],["morning"],["evening","morning"],["afternoon"]]},
+  {"name":"Jordan Lee","preferences":[["morning","evening"],["afternoon"],["morning"],["evening"],["afternoon"],["morning"],["evening"]]}
+]}
